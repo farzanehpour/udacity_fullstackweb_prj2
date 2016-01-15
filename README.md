@@ -1,4 +1,4 @@
-<h1>Tournament project Version 1.0.0</h1>
+<h1>Tournament Results project Version 1.0.0</h1>
 
 <p>This is the second assignment for Udacity full stack web developers nanodegree 
 program. For more information about the course, please visit:
@@ -64,4 +64,4 @@ tournament=&gt; \q
 
 <hr />
 
-<p>Shiva Farzanehpour (farzanehpour@gmail.com)</p>
+<p>Shiva Farzanehpour.</p>
